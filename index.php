@@ -13,6 +13,7 @@
 			<section id="banner">
 				<h2>AWS Developer LAB</h2>
 				<! TO DO >
+				<p class="ui header center"><font color="white">Server IP Address <?= $_SERVER['SERVER_ADDR'] ?></p>
 
 				<ul class="actions">
 					<li><a href="#" class="button special big">Get Started</a></li>
